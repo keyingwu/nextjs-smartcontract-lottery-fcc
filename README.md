@@ -2,7 +2,7 @@
 
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course from Patrick Collins.
 
-[Example App here!](https://fancy-dream-3458.on.fleek.co/)
+[Example App here!](https://smart-contract-lottery.on.fleek.co/)
 
 Built with ❤️ using:
 NextJS
